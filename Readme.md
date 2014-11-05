@@ -1,3 +1,5 @@
+## Useful Phonegap command for Windows
+
 #### generate keystore file 
 ```keytool -genkey -v -keystore PROJECT-NAME.keystore -alias YOUR-ALIAS-NAME -keyalg RSA -keysize 2048 -validity 10000```
 
